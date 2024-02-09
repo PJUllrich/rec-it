@@ -1,0 +1,501 @@
+class id;filepaths;labels;data set
+0;valid/air hockey/1.jpg;air hockey;valid
+0;valid/air hockey/2.jpg;air hockey;valid
+0;valid/air hockey/3.jpg;air hockey;valid
+0;valid/air hockey/4.jpg;air hockey;valid
+0;valid/air hockey/5.jpg;air hockey;valid
+1;valid/ampute football/1.jpg;ampute football;valid
+1;valid/ampute football/2.jpg;ampute football;valid
+1;valid/ampute football/3.jpg;ampute football;valid
+1;valid/ampute football/4.jpg;ampute football;valid
+1;valid/ampute football/5.jpg;ampute football;valid
+2;valid/archery/1.jpg;archery;valid
+2;valid/archery/2.jpg;archery;valid
+2;valid/archery/3.jpg;archery;valid
+2;valid/archery/4.jpg;archery;valid
+2;valid/archery/5.jpg;archery;valid
+3;valid/arm wrestling/1.jpg;arm wrestling;valid
+3;valid/arm wrestling/2.jpg;arm wrestling;valid
+3;valid/arm wrestling/3.jpg;arm wrestling;valid
+3;valid/arm wrestling/4.jpg;arm wrestling;valid
+3;valid/arm wrestling/5.jpg;arm wrestling;valid
+4;valid/axe throwing/1.jpg;axe throwing;valid
+4;valid/axe throwing/2.jpg;axe throwing;valid
+4;valid/axe throwing/3.jpg;axe throwing;valid
+4;valid/axe throwing/4.jpg;axe throwing;valid
+4;valid/axe throwing/5.jpg;axe throwing;valid
+5;valid/balance beam/1.jpg;balance beam;valid
+5;valid/balance beam/2.jpg;balance beam;valid
+5;valid/balance beam/3.jpg;balance beam;valid
+5;valid/balance beam/4.jpg;balance beam;valid
+5;valid/balance beam/5.jpg;balance beam;valid
+6;valid/barell racing/1.jpg;barell racing;valid
+6;valid/barell racing/2.jpg;barell racing;valid
+6;valid/barell racing/3.jpg;barell racing;valid
+6;valid/barell racing/4.jpg;barell racing;valid
+6;valid/barell racing/5.jpg;barell racing;valid
+7;valid/baseball/1.jpg;baseball;valid
+7;valid/baseball/2.jpg;baseball;valid
+7;valid/baseball/3.jpg;baseball;valid
+7;valid/baseball/4.jpg;baseball;valid
+7;valid/baseball/5.jpg;baseball;valid
+8;valid/basketball/1.jpg;basketball;valid
+8;valid/basketball/2.jpg;basketball;valid
+8;valid/basketball/3.jpg;basketball;valid
+8;valid/basketball/4.jpg;basketball;valid
+8;valid/basketball/5.jpg;basketball;valid
+9;valid/baton twirling/1.jpg;baton twirling;valid
+9;valid/baton twirling/2.jpg;baton twirling;valid
+9;valid/baton twirling/3.jpg;baton twirling;valid
+9;valid/baton twirling/4.jpg;baton twirling;valid
+9;valid/baton twirling/5.jpg;baton twirling;valid
+10;valid/bike polo/1.jpg;bike polo;valid
+10;valid/bike polo/2.jpg;bike polo;valid
+10;valid/bike polo/3.jpg;bike polo;valid
+10;valid/bike polo/4.jpg;bike polo;valid
+10;valid/bike polo/5.jpg;bike polo;valid
+11;valid/billiards/1.jpg;billiards;valid
+11;valid/billiards/2.jpg;billiards;valid
+11;valid/billiards/3.jpg;billiards;valid
+11;valid/billiards/4.jpg;billiards;valid
+11;valid/billiards/5.jpg;billiards;valid
+12;valid/bmx/1.jpg;bmx;valid
+12;valid/bmx/2.jpg;bmx;valid
+12;valid/bmx/3.jpg;bmx;valid
+12;valid/bmx/4.jpg;bmx;valid
+12;valid/bmx/5.jpg;bmx;valid
+13;valid/bobsled/1.jpg;bobsled;valid
+13;valid/bobsled/2.jpg;bobsled;valid
+13;valid/bobsled/3.jpg;bobsled;valid
+13;valid/bobsled/4.jpg;bobsled;valid
+13;valid/bobsled/5.jpg;bobsled;valid
+14;valid/bowling/1.jpg;bowling;valid
+14;valid/bowling/2.jpg;bowling;valid
+14;valid/bowling/3.jpg;bowling;valid
+14;valid/bowling/4.jpg;bowling;valid
+14;valid/bowling/5.jpg;bowling;valid
+15;valid/boxing/1.jpg;boxing;valid
+15;valid/boxing/2.jpg;boxing;valid
+15;valid/boxing/3.jpg;boxing;valid
+15;valid/boxing/4.jpg;boxing;valid
+15;valid/boxing/5.jpg;boxing;valid
+16;valid/bull riding/1.jpg;bull riding;valid
+16;valid/bull riding/2.jpg;bull riding;valid
+16;valid/bull riding/3.jpg;bull riding;valid
+16;valid/bull riding/4.jpg;bull riding;valid
+16;valid/bull riding/5.jpg;bull riding;valid
+17;valid/bungee jumping/1.jpg;bungee jumping;valid
+17;valid/bungee jumping/2.jpg;bungee jumping;valid
+17;valid/bungee jumping/3.jpg;bungee jumping;valid
+17;valid/bungee jumping/4.jpg;bungee jumping;valid
+17;valid/bungee jumping/5.jpg;bungee jumping;valid
+18;valid/canoe slamon/1.jpg;canoe slamon;valid
+18;valid/canoe slamon/2.jpg;canoe slamon;valid
+18;valid/canoe slamon/3.jpg;canoe slamon;valid
+18;valid/canoe slamon/4.jpg;canoe slamon;valid
+18;valid/canoe slamon/5.jpg;canoe slamon;valid
+19;valid/cheerleading/1.jpg;cheerleading;valid
+19;valid/cheerleading/2.jpg;cheerleading;valid
+19;valid/cheerleading/3.jpg;cheerleading;valid
+19;valid/cheerleading/4.jpg;cheerleading;valid
+19;valid/cheerleading/5.jpg;cheerleading;valid
+20;valid/chuckwagon racing/1.jpg;chuckwagon racing;valid
+20;valid/chuckwagon racing/2.jpg;chuckwagon racing;valid
+20;valid/chuckwagon racing/3.jpg;chuckwagon racing;valid
+20;valid/chuckwagon racing/4.jpg;chuckwagon racing;valid
+20;valid/chuckwagon racing/5.jpg;chuckwagon racing;valid
+21;valid/cricket/1.jpg;cricket;valid
+21;valid/cricket/2.jpg;cricket;valid
+21;valid/cricket/3.jpg;cricket;valid
+21;valid/cricket/4.jpg;cricket;valid
+21;valid/cricket/5.jpg;cricket;valid
+22;valid/croquet/1.jpg;croquet;valid
+22;valid/croquet/2.jpg;croquet;valid
+22;valid/croquet/3.jpg;croquet;valid
+22;valid/croquet/4.jpg;croquet;valid
+22;valid/croquet/5.jpg;croquet;valid
+23;valid/curling/1.jpg;curling;valid
+23;valid/curling/2.jpg;curling;valid
+23;valid/curling/3.jpg;curling;valid
+23;valid/curling/4.jpg;curling;valid
+23;valid/curling/5.jpg;curling;valid
+24;valid/disc golf/1.jpg;disc golf;valid
+24;valid/disc golf/2.jpg;disc golf;valid
+24;valid/disc golf/3.jpg;disc golf;valid
+24;valid/disc golf/4.jpg;disc golf;valid
+24;valid/disc golf/5.jpg;disc golf;valid
+25;valid/fencing/1.jpg;fencing;valid
+25;valid/fencing/2.jpg;fencing;valid
+25;valid/fencing/3.jpg;fencing;valid
+25;valid/fencing/4.jpg;fencing;valid
+25;valid/fencing/5.jpg;fencing;valid
+26;valid/field hockey/1.jpg;field hockey;valid
+26;valid/field hockey/2.jpg;field hockey;valid
+26;valid/field hockey/3.jpg;field hockey;valid
+26;valid/field hockey/4.jpg;field hockey;valid
+26;valid/field hockey/5.jpg;field hockey;valid
+27;valid/figure skating men/1.jpg;figure skating men;valid
+27;valid/figure skating men/2.jpg;figure skating men;valid
+27;valid/figure skating men/3.jpg;figure skating men;valid
+27;valid/figure skating men/4.jpg;figure skating men;valid
+27;valid/figure skating men/5.jpg;figure skating men;valid
+28;valid/figure skating pairs/1.jpg;figure skating pairs;valid
+28;valid/figure skating pairs/2.jpg;figure skating pairs;valid
+28;valid/figure skating pairs/3.jpg;figure skating pairs;valid
+28;valid/figure skating pairs/4.jpg;figure skating pairs;valid
+28;valid/figure skating pairs/5.jpg;figure skating pairs;valid
+29;valid/figure skating women/1.jpg;figure skating women;valid
+29;valid/figure skating women/2.jpg;figure skating women;valid
+29;valid/figure skating women/3.jpg;figure skating women;valid
+29;valid/figure skating women/4.jpg;figure skating women;valid
+29;valid/figure skating women/5.jpg;figure skating women;valid
+30;valid/fly fishing/1.jpg;fly fishing;valid
+30;valid/fly fishing/2.jpg;fly fishing;valid
+30;valid/fly fishing/3.jpg;fly fishing;valid
+30;valid/fly fishing/4.jpg;fly fishing;valid
+30;valid/fly fishing/5.jpg;fly fishing;valid
+31;valid/football/1.jpg;football;valid
+31;valid/football/2.jpg;football;valid
+31;valid/football/3.jpg;football;valid
+31;valid/football/4.jpg;football;valid
+31;valid/football/5.jpg;football;valid
+32;valid/formula 1 racing/1.jpg;formula 1 racing;valid
+32;valid/formula 1 racing/2.jpg;formula 1 racing;valid
+32;valid/formula 1 racing/3.jpg;formula 1 racing;valid
+32;valid/formula 1 racing/4.jpg;formula 1 racing;valid
+32;valid/formula 1 racing/5.jpg;formula 1 racing;valid
+33;valid/frisbee/1.jpg;frisbee;valid
+33;valid/frisbee/2.jpg;frisbee;valid
+33;valid/frisbee/3.jpg;frisbee;valid
+33;valid/frisbee/4.jpg;frisbee;valid
+33;valid/frisbee/5.jpg;frisbee;valid
+34;valid/gaga/1.jpg;gaga;valid
+34;valid/gaga/2.jpg;gaga;valid
+34;valid/gaga/3.jpg;gaga;valid
+34;valid/gaga/4.jpg;gaga;valid
+34;valid/gaga/5.jpg;gaga;valid
+35;valid/giant slalom/1.jpg;giant slalom;valid
+35;valid/giant slalom/2.jpg;giant slalom;valid
+35;valid/giant slalom/3.jpg;giant slalom;valid
+35;valid/giant slalom/4.jpg;giant slalom;valid
+35;valid/giant slalom/5.jpg;giant slalom;valid
+36;valid/golf/1.jpg;golf;valid
+36;valid/golf/2.jpg;golf;valid
+36;valid/golf/3.jpg;golf;valid
+36;valid/golf/4.jpg;golf;valid
+36;valid/golf/5.jpg;golf;valid
+37;valid/hammer throw/1.jpg;hammer throw;valid
+37;valid/hammer throw/2.jpg;hammer throw;valid
+37;valid/hammer throw/3.jpg;hammer throw;valid
+37;valid/hammer throw/4.jpg;hammer throw;valid
+37;valid/hammer throw/5.jpg;hammer throw;valid
+38;valid/hang gliding/1.jpg;hang gliding;valid
+38;valid/hang gliding/2.jpg;hang gliding;valid
+38;valid/hang gliding/3.jpg;hang gliding;valid
+38;valid/hang gliding/4.jpg;hang gliding;valid
+38;valid/hang gliding/5.jpg;hang gliding;valid
+39;valid/harness racing/1.jpg;harness racing;valid
+39;valid/harness racing/2.jpg;harness racing;valid
+39;valid/harness racing/3.jpg;harness racing;valid
+39;valid/harness racing/4.jpg;harness racing;valid
+39;valid/harness racing/5.jpg;harness racing;valid
+40;valid/high jump/1.jpg;high jump;valid
+40;valid/high jump/2.jpg;high jump;valid
+40;valid/high jump/3.jpg;high jump;valid
+40;valid/high jump/4.jpg;high jump;valid
+40;valid/high jump/5.jpg;high jump;valid
+41;valid/hockey/1.jpg;hockey;valid
+41;valid/hockey/2.jpg;hockey;valid
+41;valid/hockey/3.jpg;hockey;valid
+41;valid/hockey/4.jpg;hockey;valid
+41;valid/hockey/5.jpg;hockey;valid
+42;valid/horse jumping/1.jpg;horse jumping;valid
+42;valid/horse jumping/2.jpg;horse jumping;valid
+42;valid/horse jumping/3.jpg;horse jumping;valid
+42;valid/horse jumping/4.jpg;horse jumping;valid
+42;valid/horse jumping/5.jpg;horse jumping;valid
+43;valid/horse racing/1.jpg;horse racing;valid
+43;valid/horse racing/2.jpg;horse racing;valid
+43;valid/horse racing/3.jpg;horse racing;valid
+43;valid/horse racing/4.jpg;horse racing;valid
+43;valid/horse racing/5.jpg;horse racing;valid
+44;valid/horseshoe pitching/1.jpg;horseshoe pitching;valid
+44;valid/horseshoe pitching/2.jpg;horseshoe pitching;valid
+44;valid/horseshoe pitching/3.jpg;horseshoe pitching;valid
+44;valid/horseshoe pitching/4.jpg;horseshoe pitching;valid
+44;valid/horseshoe pitching/5.jpg;horseshoe pitching;valid
+45;valid/hurdles/1.jpg;hurdles;valid
+45;valid/hurdles/2.jpg;hurdles;valid
+45;valid/hurdles/3.jpg;hurdles;valid
+45;valid/hurdles/4.jpg;hurdles;valid
+45;valid/hurdles/5.jpg;hurdles;valid
+46;valid/hydroplane racing/1.jpg;hydroplane racing;valid
+46;valid/hydroplane racing/2.jpg;hydroplane racing;valid
+46;valid/hydroplane racing/3.jpg;hydroplane racing;valid
+46;valid/hydroplane racing/4.jpg;hydroplane racing;valid
+46;valid/hydroplane racing/5.jpg;hydroplane racing;valid
+47;valid/ice climbing/1.jpg;ice climbing;valid
+47;valid/ice climbing/2.jpg;ice climbing;valid
+47;valid/ice climbing/3.jpg;ice climbing;valid
+47;valid/ice climbing/4.jpg;ice climbing;valid
+47;valid/ice climbing/5.jpg;ice climbing;valid
+48;valid/ice yachting/1.jpg;ice yachting;valid
+48;valid/ice yachting/2.jpg;ice yachting;valid
+48;valid/ice yachting/3.jpg;ice yachting;valid
+48;valid/ice yachting/4.jpg;ice yachting;valid
+48;valid/ice yachting/5.jpg;ice yachting;valid
+49;valid/jai alai/1.jpg;jai alai;valid
+49;valid/jai alai/2.jpg;jai alai;valid
+49;valid/jai alai/3.jpg;jai alai;valid
+49;valid/jai alai/4.jpg;jai alai;valid
+49;valid/jai alai/5.jpg;jai alai;valid
+50;valid/javelin/1.jpg;javelin;valid
+50;valid/javelin/2.jpg;javelin;valid
+50;valid/javelin/3.jpg;javelin;valid
+50;valid/javelin/4.jpg;javelin;valid
+50;valid/javelin/5.jpg;javelin;valid
+51;valid/jousting/1.jpg;jousting;valid
+51;valid/jousting/2.jpg;jousting;valid
+51;valid/jousting/3.jpg;jousting;valid
+51;valid/jousting/4.jpg;jousting;valid
+51;valid/jousting/5.jpg;jousting;valid
+52;valid/judo/1.jpg;judo;valid
+52;valid/judo/2.jpg;judo;valid
+52;valid/judo/3.jpg;judo;valid
+52;valid/judo/4.jpg;judo;valid
+52;valid/judo/5.jpg;judo;valid
+53;valid/lacrosse/1.jpg;lacrosse;valid
+53;valid/lacrosse/2.jpg;lacrosse;valid
+53;valid/lacrosse/3.jpg;lacrosse;valid
+53;valid/lacrosse/4.jpg;lacrosse;valid
+53;valid/lacrosse/5.jpg;lacrosse;valid
+54;valid/log rolling/1.jpg;log rolling;valid
+54;valid/log rolling/2.jpg;log rolling;valid
+54;valid/log rolling/3.jpg;log rolling;valid
+54;valid/log rolling/4.jpg;log rolling;valid
+54;valid/log rolling/5.jpg;log rolling;valid
+55;valid/luge/1.jpg;luge;valid
+55;valid/luge/2.jpg;luge;valid
+55;valid/luge/3.jpg;luge;valid
+55;valid/luge/4.jpg;luge;valid
+55;valid/luge/5.jpg;luge;valid
+56;valid/motorcycle racing/1.jpg;motorcycle racing;valid
+56;valid/motorcycle racing/2.jpg;motorcycle racing;valid
+56;valid/motorcycle racing/3.jpg;motorcycle racing;valid
+56;valid/motorcycle racing/4.jpg;motorcycle racing;valid
+56;valid/motorcycle racing/5.jpg;motorcycle racing;valid
+57;valid/mushing/1.jpg;mushing;valid
+57;valid/mushing/2.jpg;mushing;valid
+57;valid/mushing/3.jpg;mushing;valid
+57;valid/mushing/4.jpg;mushing;valid
+57;valid/mushing/5.jpg;mushing;valid
+58;valid/nascar racing/1.jpg;nascar racing;valid
+58;valid/nascar racing/2.jpg;nascar racing;valid
+58;valid/nascar racing/3.jpg;nascar racing;valid
+58;valid/nascar racing/4.jpg;nascar racing;valid
+58;valid/nascar racing/5.jpg;nascar racing;valid
+59;valid/olympic wrestling/1.jpg;olympic wrestling;valid
+59;valid/olympic wrestling/2.jpg;olympic wrestling;valid
+59;valid/olympic wrestling/3.jpg;olympic wrestling;valid
+59;valid/olympic wrestling/4.jpg;olympic wrestling;valid
+59;valid/olympic wrestling/5.jpg;olympic wrestling;valid
+60;valid/parallel bar/1.jpg;parallel bar;valid
+60;valid/parallel bar/2.jpg;parallel bar;valid
+60;valid/parallel bar/3.jpg;parallel bar;valid
+60;valid/parallel bar/4.jpg;parallel bar;valid
+60;valid/parallel bar/5.jpg;parallel bar;valid
+61;valid/pole climbing/1.jpg;pole climbing;valid
+61;valid/pole climbing/2.jpg;pole climbing;valid
+61;valid/pole climbing/3.jpg;pole climbing;valid
+61;valid/pole climbing/4.jpg;pole climbing;valid
+61;valid/pole climbing/5.jpg;pole climbing;valid
+62;valid/pole dancing/1.jpg;pole dancing;valid
+62;valid/pole dancing/2.jpg;pole dancing;valid
+62;valid/pole dancing/3.jpg;pole dancing;valid
+62;valid/pole dancing/4.jpg;pole dancing;valid
+62;valid/pole dancing/5.jpg;pole dancing;valid
+63;valid/pole vault/1.jpg;pole vault;valid
+63;valid/pole vault/2.jpg;pole vault;valid
+63;valid/pole vault/3.jpg;pole vault;valid
+63;valid/pole vault/4.jpg;pole vault;valid
+63;valid/pole vault/5.jpg;pole vault;valid
+64;valid/polo/1.jpg;polo;valid
+64;valid/polo/2.jpg;polo;valid
+64;valid/polo/3.jpg;polo;valid
+64;valid/polo/4.jpg;polo;valid
+64;valid/polo/5.jpg;polo;valid
+65;valid/pommel horse/1.jpg;pommel horse;valid
+65;valid/pommel horse/2.jpg;pommel horse;valid
+65;valid/pommel horse/3.jpg;pommel horse;valid
+65;valid/pommel horse/4.jpg;pommel horse;valid
+65;valid/pommel horse/5.jpg;pommel horse;valid
+66;valid/rings/1.jpg;rings;valid
+66;valid/rings/2.jpg;rings;valid
+66;valid/rings/3.jpg;rings;valid
+66;valid/rings/4.jpg;rings;valid
+66;valid/rings/5.jpg;rings;valid
+67;valid/rock climbing/1.jpg;rock climbing;valid
+67;valid/rock climbing/2.jpg;rock climbing;valid
+67;valid/rock climbing/3.jpg;rock climbing;valid
+67;valid/rock climbing/4.jpg;rock climbing;valid
+67;valid/rock climbing/5.jpg;rock climbing;valid
+68;valid/roller derby/1.jpg;roller derby;valid
+68;valid/roller derby/2.jpg;roller derby;valid
+68;valid/roller derby/3.jpg;roller derby;valid
+68;valid/roller derby/4.jpg;roller derby;valid
+68;valid/roller derby/5.jpg;roller derby;valid
+69;valid/rollerblade racing/1.jpg;rollerblade racing;valid
+69;valid/rollerblade racing/2.jpg;rollerblade racing;valid
+69;valid/rollerblade racing/3.jpg;rollerblade racing;valid
+69;valid/rollerblade racing/4.jpg;rollerblade racing;valid
+69;valid/rollerblade racing/5.jpg;rollerblade racing;valid
+70;valid/rowing/1.jpg;rowing;valid
+70;valid/rowing/2.jpg;rowing;valid
+70;valid/rowing/3.jpg;rowing;valid
+70;valid/rowing/4.jpg;rowing;valid
+70;valid/rowing/5.jpg;rowing;valid
+71;valid/rugby/1.jpg;rugby;valid
+71;valid/rugby/2.jpg;rugby;valid
+71;valid/rugby/3.jpg;rugby;valid
+71;valid/rugby/4.jpg;rugby;valid
+71;valid/rugby/5.jpg;rugby;valid
+72;valid/sailboat racing/1.jpg;sailboat racing;valid
+72;valid/sailboat racing/2.jpg;sailboat racing;valid
+72;valid/sailboat racing/3.jpg;sailboat racing;valid
+72;valid/sailboat racing/4.jpg;sailboat racing;valid
+72;valid/sailboat racing/5.jpg;sailboat racing;valid
+73;valid/shot put/1.jpg;shot put;valid
+73;valid/shot put/2.jpg;shot put;valid
+73;valid/shot put/3.jpg;shot put;valid
+73;valid/shot put/4.jpg;shot put;valid
+73;valid/shot put/5.jpg;shot put;valid
+74;valid/shuffleboard/1.jpg;shuffleboard;valid
+74;valid/shuffleboard/2.jpg;shuffleboard;valid
+74;valid/shuffleboard/3.jpg;shuffleboard;valid
+74;valid/shuffleboard/4.jpg;shuffleboard;valid
+74;valid/shuffleboard/5.jpg;shuffleboard;valid
+75;valid/sidecar racing/1.jpg;sidecar racing;valid
+75;valid/sidecar racing/2.jpg;sidecar racing;valid
+75;valid/sidecar racing/3.jpg;sidecar racing;valid
+75;valid/sidecar racing/4.jpg;sidecar racing;valid
+75;valid/sidecar racing/5.jpg;sidecar racing;valid
+76;valid/ski jumping/1.jpg;ski jumping;valid
+76;valid/ski jumping/2.jpg;ski jumping;valid
+76;valid/ski jumping/3.jpg;ski jumping;valid
+76;valid/ski jumping/4.jpg;ski jumping;valid
+76;valid/ski jumping/5.jpg;ski jumping;valid
+77;valid/sky surfing/1.jpg;sky surfing;valid
+77;valid/sky surfing/2.jpg;sky surfing;valid
+77;valid/sky surfing/3.jpg;sky surfing;valid
+77;valid/sky surfing/4.jpg;sky surfing;valid
+77;valid/sky surfing/5.jpg;sky surfing;valid
+78;valid/skydiving/1.jpg;skydiving;valid
+78;valid/skydiving/2.jpg;skydiving;valid
+78;valid/skydiving/3.jpg;skydiving;valid
+78;valid/skydiving/4.jpg;skydiving;valid
+78;valid/skydiving/5.jpg;skydiving;valid
+79;valid/snow boarding/1.jpg;snow boarding;valid
+79;valid/snow boarding/2.jpg;snow boarding;valid
+79;valid/snow boarding/3.jpg;snow boarding;valid
+79;valid/snow boarding/4.jpg;snow boarding;valid
+79;valid/snow boarding/5.jpg;snow boarding;valid
+80;valid/snowmobile racing/1.jpg;snowmobile racing;valid
+80;valid/snowmobile racing/2.jpg;snowmobile racing;valid
+80;valid/snowmobile racing/3.jpg;snowmobile racing;valid
+80;valid/snowmobile racing/4.jpg;snowmobile racing;valid
+80;valid/snowmobile racing/5.jpg;snowmobile racing;valid
+81;valid/speed skating/1.jpg;speed skating;valid
+81;valid/speed skating/2.jpg;speed skating;valid
+81;valid/speed skating/3.jpg;speed skating;valid
+81;valid/speed skating/4.jpg;speed skating;valid
+81;valid/speed skating/5.jpg;speed skating;valid
+82;valid/steer wrestling/1.jpg;steer wrestling;valid
+82;valid/steer wrestling/2.jpg;steer wrestling;valid
+82;valid/steer wrestling/3.jpg;steer wrestling;valid
+82;valid/steer wrestling/4.jpg;steer wrestling;valid
+82;valid/steer wrestling/5.jpg;steer wrestling;valid
+83;valid/sumo wrestling/1.jpg;sumo wrestling;valid
+83;valid/sumo wrestling/2.jpg;sumo wrestling;valid
+83;valid/sumo wrestling/3.jpg;sumo wrestling;valid
+83;valid/sumo wrestling/4.jpg;sumo wrestling;valid
+83;valid/sumo wrestling/5.jpg;sumo wrestling;valid
+84;valid/surfing/1.jpg;surfing;valid
+84;valid/surfing/2.jpg;surfing;valid
+84;valid/surfing/3.jpg;surfing;valid
+84;valid/surfing/4.jpg;surfing;valid
+84;valid/surfing/5.jpg;surfing;valid
+85;valid/swimming/1.jpg;swimming;valid
+85;valid/swimming/2.jpg;swimming;valid
+85;valid/swimming/3.jpg;swimming;valid
+85;valid/swimming/4.jpg;swimming;valid
+85;valid/swimming/5.jpg;swimming;valid
+86;valid/table tennis/1.jpg;table tennis;valid
+86;valid/table tennis/2.jpg;table tennis;valid
+86;valid/table tennis/3.jpg;table tennis;valid
+86;valid/table tennis/4.jpg;table tennis;valid
+86;valid/table tennis/5.jpg;table tennis;valid
+87;valid/tennis/1.jpg;tennis;valid
+87;valid/tennis/2.jpg;tennis;valid
+87;valid/tennis/3.jpg;tennis;valid
+87;valid/tennis/4.jpg;tennis;valid
+87;valid/tennis/5.jpg;tennis;valid
+88;valid/track bicycle/1.jpg;track bicycle;valid
+88;valid/track bicycle/2.jpg;track bicycle;valid
+88;valid/track bicycle/3.jpg;track bicycle;valid
+88;valid/track bicycle/4.jpg;track bicycle;valid
+88;valid/track bicycle/5.jpg;track bicycle;valid
+89;valid/trapeze/1.jpg;trapeze;valid
+89;valid/trapeze/2.jpg;trapeze;valid
+89;valid/trapeze/3.jpg;trapeze;valid
+89;valid/trapeze/4.jpg;trapeze;valid
+89;valid/trapeze/5.jpg;trapeze;valid
+90;valid/tug of war/1.jpg;tug of war;valid
+90;valid/tug of war/2.jpg;tug of war;valid
+90;valid/tug of war/3.jpg;tug of war;valid
+90;valid/tug of war/4.jpg;tug of war;valid
+90;valid/tug of war/5.jpg;tug of war;valid
+91;valid/ultimate/1.jpg;ultimate;valid
+91;valid/ultimate/2.jpg;ultimate;valid
+91;valid/ultimate/3.jpg;ultimate;valid
+91;valid/ultimate/4.jpg;ultimate;valid
+91;valid/ultimate/5.jpg;ultimate;valid
+92;valid/uneven bars/1.jpg;uneven bars;valid
+92;valid/uneven bars/2.jpg;uneven bars;valid
+92;valid/uneven bars/3.jpg;uneven bars;valid
+92;valid/uneven bars/4.jpg;uneven bars;valid
+92;valid/uneven bars/5.jpg;uneven bars;valid
+93;valid/volleyball/1.jpg;volleyball;valid
+93;valid/volleyball/2.jpg;volleyball;valid
+93;valid/volleyball/3.jpg;volleyball;valid
+93;valid/volleyball/4.jpg;volleyball;valid
+93;valid/volleyball/5.jpg;volleyball;valid
+94;valid/water cycling/1.jpg;water cycling;valid
+94;valid/water cycling/2.jpg;water cycling;valid
+94;valid/water cycling/3.jpg;water cycling;valid
+94;valid/water cycling/4.jpg;water cycling;valid
+94;valid/water cycling/5.jpg;water cycling;valid
+95;valid/water polo/1.jpg;water polo;valid
+95;valid/water polo/2.jpg;water polo;valid
+95;valid/water polo/3.jpg;water polo;valid
+95;valid/water polo/4.jpg;water polo;valid
+95;valid/water polo/5.jpg;water polo;valid
+96;valid/weightlifting/1.jpg;weightlifting;valid
+96;valid/weightlifting/2.jpg;weightlifting;valid
+96;valid/weightlifting/3.jpg;weightlifting;valid
+96;valid/weightlifting/4.jpg;weightlifting;valid
+96;valid/weightlifting/5.jpg;weightlifting;valid
+97;valid/wheelchair basketball/1.jpg;wheelchair basketball;valid
+97;valid/wheelchair basketball/2.jpg;wheelchair basketball;valid
+97;valid/wheelchair basketball/3.jpg;wheelchair basketball;valid
+97;valid/wheelchair basketball/4.jpg;wheelchair basketball;valid
+97;valid/wheelchair basketball/5.jpg;wheelchair basketball;valid
+98;valid/wheelchair racing/1.jpg;wheelchair racing;valid
+98;valid/wheelchair racing/2.jpg;wheelchair racing;valid
+98;valid/wheelchair racing/3.jpg;wheelchair racing;valid
+98;valid/wheelchair racing/4.jpg;wheelchair racing;valid
+98;valid/wheelchair racing/5.jpg;wheelchair racing;valid
+99;valid/wingsuit flying/1.jpg;wingsuit flying;valid
+99;valid/wingsuit flying/2.jpg;wingsuit flying;valid
+99;valid/wingsuit flying/3.jpg;wingsuit flying;valid
+99;valid/wingsuit flying/4.jpg;wingsuit flying;valid
+99;valid/wingsuit flying/5.jpg;wingsuit flying;valid
