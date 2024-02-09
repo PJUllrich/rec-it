@@ -55,7 +55,7 @@ defmodule RecitWeb.GameLive do
     categories = socket.assigns.categories
 
     case Integer.parse(key) do
-      {idx, ""} ->
+      {idx, ""} when idx <= @categories_per_round ->
         {guessed_category, _idx} =
           Enum.find(categories, fn {_category, category_idx} -> category_idx == idx end)
 
@@ -108,6 +108,10 @@ defmodule RecitWeb.GameLive do
 
   defp start_timer(socket) do
     assign(socket, :timer, DateTime.utc_now(:millisecond))
+  end
+
+  defp check_guess(%{assigns: %{current_category: nil}} = socket, _guessed_category) do
+    socket
   end
 
   defp check_guess(socket, guessed_category) do

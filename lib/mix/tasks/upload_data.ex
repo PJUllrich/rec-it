@@ -6,39 +6,38 @@ defmodule Mix.Tasks.UploadData do
 
   @preferred_cli_env :dev
 
-  @default_path "./data"
+  @data_path "./data"
 
   @impl true
   def run(args) do
     Mix.Task.run("app.start")
 
-    base_path = Keyword.get(args, :path, @default_path)
+    data_path = Keyword.get(args, :path, @data_path)
 
-    base_path
-    |> Recit.Files.load_file_list()
-    |> prompt(base_path)
+    Recit.Files.load_file_list()
+    |> prompt(data_path)
   end
 
-  defp prompt(file_list, base_path) do
+  defp prompt(file_list, data_path) do
     bucket = Recit.Storage.bucket()
     message = "Will upload #{length(file_list)} files to bucket: '#{bucket}'."
 
     if Mix.shell().yes?(message) do
       file_list
-      |> upload_files(base_path)
+      |> upload_files(data_path)
       |> handle_result()
     else
       Mix.shell().info("Upload aborted.")
     end
   end
 
-  defp upload_files(file_list, base_path) do
+  defp upload_files(file_list, data_path) do
     # Ignore the debug messages from ExAws
     Logger.configure(level: :warning)
 
     Enum.reduce_while(file_list, {:ok, 0}, fn file, {:ok, count} ->
       %{"filepaths" => file_path} = file
-      file = base_path |> Path.join(file_path) |> File.read!()
+      file = data_path |> Path.join(file_path) |> File.read!()
 
       case Recit.Storage.upload(file_path, file) do
         %{status_code: 200} -> {:cont, {:ok, count + 1}}

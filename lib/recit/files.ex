@@ -1,5 +1,5 @@
 defmodule Recit.Files do
-  @default_path "./data"
+  @default_path "./priv/static"
   @max_image_count 5
 
   def load_file_list(base_path \\ @default_path) do
