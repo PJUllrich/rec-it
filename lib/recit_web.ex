@@ -90,6 +90,9 @@ defmodule RecitWeb do
       # Shortcut for generating JS commands
       alias Phoenix.LiveView.JS
 
+      def ok(socket), do: {:ok, socket}
+      def noreply(socket), do: {:noreply, socket}
+
       # Routes generation with the ~p sigil
       unquote(verified_routes())
     end

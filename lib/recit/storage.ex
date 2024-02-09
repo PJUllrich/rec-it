@@ -11,5 +11,11 @@ defmodule Recit.Storage do
     |> ExAws.request!()
   end
 
+  def get_download_url(filepath) do
+    :s3
+    |> ExAws.Config.new([])
+    |> ExAws.S3.presigned_url(:get, bucket(), filepath)
+  end
+
   def bucket(), do: Application.get_env(:ex_aws, :s3)[:bucket]
 end

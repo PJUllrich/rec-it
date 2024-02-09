@@ -15,7 +15,7 @@ defmodule Mix.Tasks.UploadData do
     base_path = Keyword.get(args, :path, @default_path)
 
     base_path
-    |> get_file_list()
+    |> Recit.Files.load_file_list()
     |> prompt(base_path)
   end
 
@@ -30,14 +30,6 @@ defmodule Mix.Tasks.UploadData do
     else
       Mix.shell().info("Upload aborted.")
     end
-  end
-
-  defp get_file_list(base_path) do
-    base_path
-    |> Path.join("/valid-sports.csv")
-    |> File.stream!()
-    |> CSV.decode!(headers: true, separator: ?;)
-    |> Enum.to_list()
   end
 
   defp upload_files(file_list, base_path) do

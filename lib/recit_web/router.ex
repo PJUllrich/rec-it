@@ -17,7 +17,7 @@ defmodule RecitWeb.Router do
   scope "/", RecitWeb do
     pipe_through :browser
 
-    get "/", PageController, :home
+    live("/", GameLive)
   end
 
   # Other scopes may use custom stacks.
