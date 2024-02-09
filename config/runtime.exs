@@ -36,6 +36,8 @@ if config_env() != :test do
     host: "fly.storage.tigris.dev",
     region: "auto",
     bucket: System.get_env("BUCKET_NAME") || raise("Missing env variable: BUCKET_NAME")
+
+  config :recit, region: System.get_env("FLY_REGION")
 end
 
 if config_env() == :prod do
