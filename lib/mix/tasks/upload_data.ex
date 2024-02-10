@@ -40,8 +40,11 @@ defmodule Mix.Tasks.UploadData do
       file = data_path |> Path.join(file_path) |> File.read!()
 
       case Recit.Storage.upload(file_path, file) do
-        %{status_code: 200} -> {:cont, {:ok, count + 1}}
-        %{body: error} -> {:halt, {:error, "Upload error for #{file_path}: #{inspect(error)}"}}
+        {:ok, %{status_code: 200}} ->
+          {:cont, {:ok, count + 1}}
+
+        {:error, {_error, %{body: error}}} ->
+          {:halt, {:error, "Upload error for #{file_path}: #{inspect(error)}"}}
       end
     end)
   end

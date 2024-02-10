@@ -90,31 +90,16 @@ defmodule RecitWeb.GameLive do
   end
 
   defp assign_images(socket) do
-    # categories = socket.assigns.categories
+    categories = socket.assigns.categories
 
-    # images =
-    #   Enum.reduce(categories, [], fn {category, _idx}, acc ->
-    #     @file_list
-    #     |> Files.get_random_image_paths_for_category(category, @images_per_category)
-    #     |> Enum.map(fn path -> {category, path} end)
-    #     |> Enum.concat(acc)
-    #   end)
-    #   |> List.flatten()
-
-    images = [
-      {"figure skating women", "valid/figure skating women/2.jpg"},
-      {"figure skating women", "valid/figure skating women/4.jpg"},
-      {"figure skating women", "valid/figure skating women/5.jpg"},
-      {"javelin", "valid/javelin/1.jpg"},
-      {"javelin", "valid/javelin/4.jpg"},
-      {"javelin", "valid/javelin/2.jpg"},
-      {"frisbee", "valid/frisbee/2.jpg"},
-      {"frisbee", "valid/frisbee/4.jpg"},
-      {"frisbee", "valid/frisbee/5.jpg"},
-      {"balance beam", "valid/balance beam/4.jpg"},
-      {"balance beam", "valid/balance beam/5.jpg"},
-      {"balance beam", "valid/balance beam/2.jpg"}
-    ]
+    images =
+      Enum.reduce(categories, [], fn {category, _idx}, acc ->
+        @file_list
+        |> Files.get_random_image_paths_for_category(category, @images_per_category)
+        |> Enum.map(fn path -> {category, path} end)
+        |> Enum.concat(acc)
+      end)
+      |> List.flatten()
 
     assign(socket, :images, images)
   end

@@ -2,13 +2,13 @@ defmodule Recit.Storage do
   def upload(filepath, content) do
     bucket()
     |> ExAws.S3.put_object(filepath, content)
-    |> ExAws.request!()
+    |> ExAws.request()
   end
 
   def download(filepath) do
     bucket()
     |> ExAws.S3.get_object(filepath)
-    |> ExAws.request!()
+    |> ExAws.request()
   end
 
   def get_download_url(filepath) do
